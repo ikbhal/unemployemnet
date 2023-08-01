@@ -1,0 +1,31 @@
+technology
+
+server  otpional 
+ node.js 
+ express framework -> mvc 
+ javascript
+ sqlite: db  
+
+client 
+  html 
+  css 
+  tailwind.css  //otpional
+  javascript
+  jquery optional
+
+---
+
+create html web page with table from Youth unemployment - Country rankings.csv
+use technology 
+server 
+ node.js 
+ express framework -> mvc 
+ javascript
+ sqlite: db  
+
+client 
+  html 
+  css 
+  tailwind.css 
+  javascript
+  jquery
